@@ -1,0 +1,2 @@
+# ShapeAI_Bootcamp_BWD
+SHAPEAI_PROJECT
